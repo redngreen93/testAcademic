@@ -70,6 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-The information goes here.
+The information goes here .
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
